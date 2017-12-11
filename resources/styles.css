@@ -2,10 +2,6 @@ html{
   font-family: Helvetica;
   text-align: center;
 }
-body{
-  padding-left: 15%;
-  padding-right: 15%;
-}
 .bg{
   background-image: url('https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png');
   background-repeat: no-repeat;
@@ -33,6 +29,7 @@ a{
 .bgtwo{
   background-image: url('https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png');
   color: white;
+  background-repeat: no-repeat;
 }
 .bgcol{
   background-color: dimgray;
